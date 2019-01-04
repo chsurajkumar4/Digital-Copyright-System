@@ -14,3 +14,4 @@ C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyr
 C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.UserControl3.resources
 C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.UserControl4.resources
 C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.UserControl5.resources
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My Copyright System.csprojAssemblyReference.cache

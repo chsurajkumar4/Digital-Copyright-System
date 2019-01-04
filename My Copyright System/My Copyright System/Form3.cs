@@ -74,6 +74,7 @@ namespace My_Copyright_System
         {
             panel3.Show();
             button1.Hide();
+            button9.Hide();
             button2.Hide();
         }
 
