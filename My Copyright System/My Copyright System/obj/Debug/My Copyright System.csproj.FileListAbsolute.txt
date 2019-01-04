@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\bin\Debug\My Copyright System.exe.config
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\bin\Debug\My Copyright System.exe
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\bin\Debug\My Copyright System.pdb
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.Form1.resources
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My Copyright System.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My Copyright System.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My Copyright System.exe
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My Copyright System.pdb
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My Copyright System.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.UserControl1.resources
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.Form3.resources
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.UserControl2.resources
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.UserControl3.resources
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.UserControl4.resources
+C:\Users\user\Documents\Visual Studio 2017\projects\My Copyright System\My Copyright System\obj\Debug\My_Copyright_System.UserControl5.resources
